@@ -1,1 +1,1 @@
-# Manmeetkaur17-HexSoftwares_SLR-on-HousePrices-
+# Simple Linear Regression-on-HousePrices-
